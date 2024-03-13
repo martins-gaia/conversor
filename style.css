@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
     outline: none;
+}
 .logo {
     width: 300px;
     display: block;
